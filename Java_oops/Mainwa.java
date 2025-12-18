@@ -5,4 +5,6 @@ public class Mainwa {
         circle c = new circle(3, 10,8);
         c.area();
     }
+
+    
 }
