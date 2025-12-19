@@ -1,6 +1,7 @@
 {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "files.autoSave": "onWindowChange",
-    "editor.mouseWheelZoom": true,
-    "editor.formatOnPaste": true
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onWindowChange",
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnPaste": true,
+  "java.debug.settings.onBuildFailureProceed": true
 }
